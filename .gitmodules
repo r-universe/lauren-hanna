@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Map2NCBI"]
+	path = Map2NCBI
+	url = https://github.com/cran/Map2NCBI
+	shallow = true
+	registered = true
